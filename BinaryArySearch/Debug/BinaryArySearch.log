@@ -1,0 +1,18 @@
+﻿  BianarySearch.cpp
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(4): error C3857: “bianry_search_iterator”: 不允许使用多个 模板 参数列表
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(17): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(17): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(17): error C2059: 语法错误:“)”
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(18): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(20): error C2065: “N”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(32): error C2146: 语法错误: 缺少“;”(在标识符“midEle”的前面)
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(32): error C2065: “midEle”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(32): error C2563: 在形参表中不匹配
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(34): error C2065: “midEle”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(34): error C2065: “key”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(38): error C2065: “midEle”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(38): error C2065: “key”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(44): error C2065: “midEle”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(44): error C2065: “key”: 未声明的标识符
+c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(61): error C2660: “bianry_search_ary”: 函数不接受 3 个参数
+  c:\users\chenchao\desktop\code\binaryarysearch\binaryarysearch\bianarysearch.cpp(17): note: 参见“bianry_search_ary”的声明
